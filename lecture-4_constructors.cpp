@@ -1,5 +1,3 @@
-// Problem Link - 
-/* By Sanket Singh */
 #include<bits/stdc++.h>
 
 class Product {
